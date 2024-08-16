@@ -101,4 +101,9 @@ a
         width: 100%;
        
     }
+    .boxes
+    {
+        background-color:inherit;
+    }
+        
 }
